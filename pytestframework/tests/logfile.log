@@ -1,0 +1,60 @@
+2020-05-22 18:30:52,325 :INFO : test_e2e :get all card titles
+2020-05-22 18:30:52,353 :INFO : test_e2e :iphone X
+2020-05-22 18:30:52,365 :INFO : test_e2e :Samsung Note 8
+2020-05-22 18:30:52,377 :INFO : test_e2e :Nokia Edge
+2020-05-22 18:30:52,388 :INFO : test_e2e :Blackberry
+2020-05-22 18:30:52,574 :INFO : test_e2e :entering the country in India
+2020-05-22 18:30:58,088 :INFO : test_e2e :text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-22 18:37:26,731 :INFO : test_e2e :get all card titles
+2020-05-22 18:37:26,816 :INFO : test_e2e :iphone X
+2020-05-22 18:37:26,840 :INFO : test_e2e :Samsung Note 8
+2020-05-22 18:37:26,871 :INFO : test_e2e :Nokia Edge
+2020-05-22 18:37:26,910 :INFO : test_e2e :Blackberry
+2020-05-22 18:37:27,140 :INFO : test_e2e :entering the country in India
+2020-05-22 18:37:32,748 :INFO : test_e2e :text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-26 10:46:23,381 :INFO : test_formsubmission :firstname is :Rahul
+2020-05-26 10:46:29,075 :INFO : test_e2e :get all card titles
+2020-05-26 10:46:29,116 :INFO : test_e2e :iphone X
+2020-05-26 10:46:29,132 :INFO : test_e2e :Samsung Note 8
+2020-05-26 10:46:29,156 :INFO : test_e2e :Nokia Edge
+2020-05-26 10:46:29,181 :INFO : test_e2e :Blackberry
+2020-05-26 10:46:29,439 :INFO : test_e2e :entering the country in India
+2020-05-26 10:46:35,013 :INFO : test_e2e :text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-26 10:47:20,106 :INFO : test_formsubmission :firstname is :Rahul
+2020-05-26 10:47:25,818 :INFO : test_e2e :get all card titles
+2020-05-26 10:47:25,884 :INFO : test_e2e :iphone X
+2020-05-26 10:47:25,910 :INFO : test_e2e :Samsung Note 8
+2020-05-26 10:47:25,937 :INFO : test_e2e :Nokia Edge
+2020-05-26 10:47:25,963 :INFO : test_e2e :Blackberry
+2020-05-26 10:47:26,246 :INFO : test_e2e :entering the country in India
+2020-05-26 10:47:31,753 :INFO : test_e2e :text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-26 10:52:50,183 :INFO : test_formsubmission :firstname is :Rahul
+2020-05-26 10:52:55,178 :INFO : test_e2e :get all card titles
+2020-05-26 10:52:55,213 :INFO : test_e2e :iphone X
+2020-05-26 10:52:55,229 :INFO : test_e2e :Samsung Note 8
+2020-05-26 10:52:55,242 :INFO : test_e2e :Nokia Edge
+2020-05-26 10:52:55,255 :INFO : test_e2e :Blackberry
+2020-05-26 10:52:55,485 :INFO : test_e2e :entering the country in India
+2020-05-26 10:53:01,024 :INFO : test_e2e :text received from application×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2020-05-26 14:17:18,420 :INFO : test_e2e :get all card titles
+2020-05-26 14:18:21,413 :INFO : test_e2e :get all card titles
+2020-05-26 14:18:21,413 :ERROR : test_e2e :get all card titles
+2020-05-26 14:43:29,671 :INFO : test_e2e :get all card titles
+2020-05-26 14:43:29,672 :ERROR : test_e2e :get all card titles
+2020-05-26 15:46:01,247 :INFO : test_e2e :get all card titles
+2020-05-26 15:46:01,248 :ERROR : test_e2e :get all card titles
+2020-05-26 15:49:04,190 :INFO : test_e2e :get all card titles
+2020-05-26 15:49:04,190 :ERROR : test_e2e :get all card titles
+2020-05-26 15:53:21,690 :INFO : test_e2e :get all card titles
+2020-05-26 15:53:21,691 :ERROR : test_e2e :get all card titles
+2020-05-26 17:30:21,177 :INFO : test_e2e :get all card titles
+2020-05-26 17:30:21,184 :ERROR : test_e2e :get all card titles
+2020-05-26 18:27:13,773 :INFO : test_e2e :get all card titles
+2020-05-26 18:27:13,774 :ERROR : test_e2e :get all card titles
+2020-05-26 18:28:55,467 :INFO : test_e2e :get all card titles
+2020-05-26 18:28:55,470 :ERROR : test_e2e :get all card titles
