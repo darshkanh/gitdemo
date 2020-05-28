@@ -31,10 +31,10 @@ class Testone(BaseClass):
             product = card.text
             log.info(product)
             if product == "Blackberry":
-                checkpage.prodselect()[i].click()
+                checking.prodselect()[i].click()
 
         self.driver.find_element_by_css_selector("a[class*='btn-primary']").click()
-        confirmpage = checkpage.check()
+        confirmpage = checking.check()
         log.info("entering the country in India")
         self.driver.find_element_by_id("country").send_keys("IND")
 
