@@ -19,6 +19,8 @@ class Homepage():
     successMessage = (By.CSS_SELECTOR, "[class*='alert-success']")
     submit = (By.XPATH, "//input[@value='Submit']")
     submit2 =(By.CSS_SELECTOR,"[type=submit]")
+    checkbox =(By.XPATH,"//div[@class='checkbox checkbox-primary']")
+
     def shopitems(self):
         return self.driver.find_element(*Homepage.shop).click()
         checkOutPage = Checkoutpage(self.driver)
@@ -45,6 +47,10 @@ class Homepage():
 
     def clicksubmit(self):
         return self.driver.find_element(*Homepage.submit2)
+
+    def clickcheckbox(self):
+        return self.driver.find_element(*Homepage.checkbox)
+
 
 
 
