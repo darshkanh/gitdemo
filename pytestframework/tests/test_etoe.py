@@ -41,7 +41,7 @@ class Testone(BaseClass):
         self.verifyLinkPresence("India")
         self.driver.find_element_by_link_text("India").click()
         self.driver.find_element_by_xpath("//div[@class='checkbox checkbox-primary']").click()
-        self.driver.find_element_by_css_selector("[type=submit]").click()
+        homepage.clicksubmit().click()
         # print(driver.find_element_by_class_name("alert-success").text)
         successtext = self.driver.find_element_by_class_name("alert-success").text
         log.info("text received from application" +successtext)

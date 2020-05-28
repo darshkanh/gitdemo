@@ -18,7 +18,7 @@ class Homepage():
     gender = (By.ID,"exampleFormControlSelect1")
     successMessage = (By.CSS_SELECTOR, "[class*='alert-success']")
     submit = (By.XPATH, "//input[@value='Submit']")
-
+    submit2 =(By.CSS_SELECTOR,"[type=submit]")
     def shopitems(self):
         return self.driver.find_element(*Homepage.shop).click()
         checkOutPage = Checkoutpage(self.driver)
@@ -42,6 +42,10 @@ class Homepage():
 
     def getsubmit(self):
         return self.driver.find_element(*Homepage.submit)
+
+    def clicksubmit(self):
+        return self.driver.find_element(*Homepage.submit2)
+
 
 
 
